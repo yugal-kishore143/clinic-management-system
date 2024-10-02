@@ -1,7 +1,7 @@
-# Hospital Management System
-Hospital Management System using MySQL, Php and Bootstrap
+# Clinic Management System
+Clinic Management System using MySQL, Php and Bootstrap
 
-
+Reference tutorial
 Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watch?v=W2XGSM5i9P8)
 
 Live Demo : [Hospital Management System - 000webhost by Kishan](https://kishan0725.000webhostapp.com)
